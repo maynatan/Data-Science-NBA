@@ -1,24 +1,24 @@
-READ ME
+# Data Science Final Project
 
-The National Basketball Association 
+### The National Basketball Association 
 
-Main Purpose:
+**Main Purpose:**
 
 To predect who will be the winner team in each game. You will find addition information in the project presentation.
 
 We used the NBA API - https://www.nba.com/stats/ 
 
-Data Cleaning:
+**Data Cleaning:**
 
 * Exploring & improving the data.
 
 * Creating 2 new tables.
 
-Visualisation:
+**Visualisation:**
 
 * Explaining the data through graphs
 
-Machine Learning:
+**Machine Learning:**
 
 * Predict the score of each team.
 
